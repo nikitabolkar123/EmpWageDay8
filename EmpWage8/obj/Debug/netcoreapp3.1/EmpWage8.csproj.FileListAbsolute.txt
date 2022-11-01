@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\New folder\EmpWage8\EmpWage8\obj\Debug\netcoreapp3.1\EmpWage8.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\New folder\EmpWage8\EmpWage8\obj\Debug\netcoreapp3.1\EmpWage8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\New folder\EmpWage8\EmpWage8\obj\Debug\netcoreapp3.1\EmpWage8.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\New folder\EmpWage8\EmpWage8\obj\Debug\netcoreapp3.1\EmpWage8.AssemblyInfo.cs
+C:\Users\hp\Desktop\New folder\EmpWage8\EmpWage8\obj\Debug\netcoreapp3.1\EmpWage8.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\New folder\EmpWage8\EmpWage8\bin\Debug\netcoreapp3.1\EmpWage8.exe
+C:\Users\hp\Desktop\New folder\EmpWage8\EmpWage8\bin\Debug\netcoreapp3.1\EmpWage8.deps.json
+C:\Users\hp\Desktop\New folder\EmpWage8\EmpWage8\bin\Debug\netcoreapp3.1\EmpWage8.runtimeconfig.json
+C:\Users\hp\Desktop\New folder\EmpWage8\EmpWage8\bin\Debug\netcoreapp3.1\EmpWage8.runtimeconfig.dev.json
+C:\Users\hp\Desktop\New folder\EmpWage8\EmpWage8\bin\Debug\netcoreapp3.1\EmpWage8.dll
+C:\Users\hp\Desktop\New folder\EmpWage8\EmpWage8\bin\Debug\netcoreapp3.1\EmpWage8.pdb
+C:\Users\hp\Desktop\New folder\EmpWage8\EmpWage8\obj\Debug\netcoreapp3.1\EmpWage8.dll
+C:\Users\hp\Desktop\New folder\EmpWage8\EmpWage8\obj\Debug\netcoreapp3.1\EmpWage8.pdb
+C:\Users\hp\Desktop\New folder\EmpWage8\EmpWage8\obj\Debug\netcoreapp3.1\EmpWage8.genruntimeconfig.cache
